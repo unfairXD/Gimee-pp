@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last Updated 29/12/2023**
+**Last Updated: 31/12/2023**
 
 ## Introduction
 
@@ -45,11 +45,6 @@ By using Gimee, you agree to comply with and be bound by the terms and condition
 
 - Gimee does not store personal data; however, users are responsible for their content.
 - Review Discord's Privacy Policy for information on data handling.
-
-## Liability
-
-- Gimee is provided "as is" without warranties.
-- The developers are not liable for any damages resulting from the use or inability to use Gimee.
 
 ## Termination
 
